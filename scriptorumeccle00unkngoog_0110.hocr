@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./scriptorumeccle00unkngoog_0110.png"; bbox 0 0 2678 4830; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 143 1541 1056 1675">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 143 1541 1056 1675">
+     <span class='ocr_line' id='line_1_1' title="bbox 143 1541 1056 1675; baseline 0.003 -17"><span class='ocrx_word' id='word_1_1' title='bbox 143 1541 147 1547; x_wconf 78' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 296 1577 1056 1675; x_wconf 79' lang='lat' dir='ltr'>Q.SEPT1M11FLORENTIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 383 1823 966 1926">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 383 1823 966 1926">
+     <span class='ocr_line' id='line_1_2' title="bbox 383 1823 966 1926; baseline 0.009 -5"><span class='ocrx_word' id='word_1_3' title='bbox 383 1823 966 1926; x_wconf 89' lang='lat' dir='ltr'><strong>TERTULLIANI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 615 2097 739 2155">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 615 2097 739 2155">
+     <span class='ocr_line' id='line_1_3' title="bbox 615 2097 739 2155; baseline -0.008 0"><span class='ocrx_word' id='word_1_4' title='bbox 615 2097 739 2155; x_wconf 86' lang='lat' dir='ltr'><strong>LIBRI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 487 2314 857 2386">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 487 2314 857 2386">
+     <span class='ocr_line' id='line_1_4' title="bbox 487 2314 857 2386; baseline 0.003 -2"><span class='ocrx_word' id='word_1_5' title='bbox 487 2314 557 2384; x_wconf 83' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 585 2315 857 2386; x_wconf 82' lang='lat' dir='ltr'>ORATIONE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 194 2762 1154 2836">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 194 2762 1154 2836">
+     <span class='ocr_line' id='line_1_5' title="bbox 194 2762 1154 2836; baseline 0.004 -4"><span class='ocrx_word' id='word_1_7' title='bbox 194 2762 264 2832; x_wconf 86' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 291 2763 717 2835; x_wconf 81' lang='lat' dir='ltr'><strong>PRAESCRIPTIONE</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 747 2762 1154 2836; x_wconf 81' lang='lat' dir='ltr'><strong>HAERETICORUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1344 4830">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1344 4830">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1344 4830; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1344 4830; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
